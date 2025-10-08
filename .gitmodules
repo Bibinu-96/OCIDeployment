@@ -1,0 +1,3 @@
+[submodule "LocalP2PShare"]
+	path = LocalP2PShare
+	url = https://github.com/Bibinu-96/LocalP2PShare.git
