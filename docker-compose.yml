@@ -44,7 +44,7 @@ services:
     networks:
       - monitoring
 
-  fileserver:
+  fileshare:
     build: ./fileserver
     container_name: fileserver
     restart: unless-stopped
