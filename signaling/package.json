@@ -1,0 +1,8 @@
+{
+  "name": "signaling-server",
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "socket.io": "^4.7.2"
+  }
+}
